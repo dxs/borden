@@ -1,0 +1,81 @@
+
+#wb_header { height: 100px; }
+#wb_header > .wb_cont_bg { background: transparent none repeat scroll left top; }
+#wb_main { height: 1840px; padding-bottom: 50px; }
+#wb_main > .wb_cont_bg { background: transparent none repeat scroll left top; }
+#wb_footer { height: 50px; }
+#wb_footer > .wb_cont_bg { background: transparent none repeat-x scroll left top; }
+body { background: transparent url("../gallery_gen/5eefa1225e536cb7cca9e91be80cfcf1.jpg") no-repeat scroll center top; background-size: cover; }
+.wb_sbg { background: transparent url("../gallery_gen/ab676c3517d98677549cea5f42773fd4.jpg") repeat-x scroll left top; }
+body, .wb_sbg { min-width: 1200px; min-height: 1990px; }
+.wb_cont_inner { width: 1200px; }
+.wb_cont_bg { width: 1200px; margin-left: -600px; }
+.root { height: 1940px; overflow: visible; min-height: 1990px; }
+#wb_element_instance0 { top: 13px; left: 0px; min-width: 390px; width: 390px; min-height: 71px; height: 71px; display: block; z-index: 193; }
+#wb_element_instance1 { top: 22px; left: 470px; min-width: 720px; width: 720px; min-height: 58px; height: 58px; display: block; z-index: 385; }
+#wb_element_instance1 > ul { display: block; }
+#wb_element_instance1 ul { background: transparent none no-repeat scroll left top; border: 1px none #000000; }
+#wb_element_instance1, #wb_element_instance1 ul { text-align: right; }
+#wb_element_instance1 ul ul { background: transparent none no-repeat scroll left top; }
+#wb_element_instance1 li { margin: 10px 20px 10px 20px; }
+#wb_element_instance1 li a { text-transform: uppercase; border: 0px none #000000; padding: 10px 2px 10px 2px; font: normal bold 16px 'Open Sans',sans-serif; text-decoration: none; color: #000000; line-height: 18px; background: transparent none repeat scroll left top; }
+#wb_element_instance1 li.over > a, #wb_element_instance1 li:focus > a { border: 0px none #000000; font: normal bold 16px 'Open Sans',sans-serif; text-decoration: none; color: #ff6e2b; line-height: 18px; background: transparent none repeat scroll left top; }
+#wb_element_instance1 li.active > a { border: 0px none #000000; font: normal bold 16px 'Open Sans',sans-serif; text-decoration: none; color: #ff6e2b; line-height: 18px; background: transparent none repeat scroll left top; }
+#wb_element_instance1:not(.collapse-expanded) .vmenu ul.open-left,#wb_element_instance1:not(.collapse-expanded) .hmenu ul.open-left { left: auto; right: 100%; }
+#wb_element_instance1:not(.collapse-expanded) .hmenu > li > ul.open-left { left: auto; right: 0; }
+#wb_element_instance2 { top: 20px; left: 1030px; min-width: 32px; width: 32px; min-height: 32px; height: 32px; display: block; z-index: 193; }
+#wb_element_instance2 img { width: 32px; height: 32px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance3 { top: 20px; left: 1090px; min-width: 32px; width: 32px; min-height: 32px; height: 32px; display: block; z-index: 194; }
+#wb_element_instance3 img { width: 32px; height: 32px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance4 { top: 20px; left: 1150px; min-width: 32px; width: 32px; min-height: 32px; height: 32px; display: block; z-index: 195; }
+#wb_element_instance4 img { width: 32px; height: 32px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance5 { top: 20px; left: 20px; min-width: 247px; width: 247px; min-height: 24px; height: 24px; display: block; z-index: 185; }
+#wb_element_instance6 { top: 760px; left: 50px; min-width: 360px; width: 360px; min-height: 240px; height: 240px; display: block; z-index: 85; }
+#wb_element_instance6 img { width: 360px; height: 240px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance7 { top: 760px; left: 420px; min-width: 360px; width: 360px; min-height: 240px; height: 240px; display: block; z-index: 86; }
+#wb_element_instance7 img { width: 360px; height: 240px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance8 { top: 760px; left: 790px; min-width: 360px; width: 360px; min-height: 240px; height: 240px; display: block; z-index: 87; }
+#wb_element_instance8 img { width: 360px; height: 240px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance9 { top: 260px; left: 30px; min-width: 380px; width: 380px; min-height: 290px; height: 290px; display: block; z-index: 81; }
+#wb_element_instance10 { top: 140px; left: 20px; min-width: 390px; width: 390px; min-height: 84px; height: 84px; display: block; z-index: 82; }
+#wb_element_instance11 { top: 610px; left: 110px; min-width: 200px; width: 200px; min-height: 70px; height: 70px; display: block; z-index: 83; }
+#wb_element_instance11 .wb_button { width: 200px; height: 70px; font-family: 'Open Sans',sans-serif; font-size: 18px; text-align: center; border: 3px solid #f5f5f5; border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px; background: transparent none repeat scroll left top; }
+#wb_element_instance11 .wb_button > span { color: #ffffff; font-style: normal; font-weight: bold; text-decoration: none; }
+#wb_element_instance11 .wb_button:hover > span { color: #f7f7f7; font-style: normal; font-weight: bold; text-decoration: none; }
+#wb_element_instance11 .wb_button:hover { background: #242424 none repeat scroll left top; }
+#wb_element_instance11 .wb_button:active > span { color: #333333; font-style: normal; font-weight: normal; text-decoration: none; }
+#wb_element_instance11 .wb_button:active { background: #E6E6E6 none repeat scroll left top; }
+#wb_element_instance12 { top: 750px; left: 40px; min-width: 1120px; width: 1120px; min-height: 260px; height: 260px; display: block; z-index: 84; }
+#wb_element_instance12 > .wb_shp { background: #ededed none repeat scroll left top; background-size: auto auto; border: 0px solid #000000; opacity: 1; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; width: 1120px; height: 260px; }
+#wb_element_instance13 { top: 1143px; left: 560px; min-width: 640px; width: 640px; min-height: 400px; height: 400px; display: block; z-index: 88; overflow: hidden; }
+#wb_element_instance13 img { width: 690.0269541779px; height: 400px; display: block; position: relative; left: 0px; top: 0px; max-width: inherit; }
+#wb_element_instance14 { top: 1143px; left: 0px; min-width: 600px; width: 600px; min-height: 400px; height: 400px; display: block; z-index: 89; }
+#wb_element_instance14 img { width: 600px; height: 400px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance15 { top: 1620px; left: 20px; min-width: 560px; width: 560px; min-height: 120px; height: 120px; display: block; z-index: 90; }
+#wb_element_instance16 { top: 1620px; left: 620px; min-width: 560px; width: 560px; min-height: 100px; height: 100px; display: block; z-index: 91; }
+#wb_element_instance17 { top: 1570px; left: 20px; min-width: 560px; width: 560px; min-height: 24px; height: 24px; display: block; z-index: 92; }
+#wb_element_instance18 { top: 1570px; left: 620px; min-width: 560px; width: 560px; min-height: 24px; height: 24px; display: block; z-index: 192; }
+#wb_element_instance19 { top: 130px; left: 10px; min-width: 420px; width: 420px; min-height: 570px; height: 570px; display: block; z-index: 80; }
+#wb_element_instance19 > .wb_shp { background: #000000 none repeat scroll left top; background-size: auto auto; border: 0px solid #C0C0C0; opacity: 0.4; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; width: 420px; height: 570px; }
+#wb_element_instance20 { top: 1760px; left: 0px; display: block; z-index: 9000; }
+#wb_element_instance21 { top: 64px; left: 0px; display: block; z-index: 9999; }
+
+
+#wb_element_instance0 p:last-child { margin-bottom: 0; }
+#wb_element_instance5 p:last-child { margin-bottom: 0; }
+#wb_element_instance9 p:last-child { margin-bottom: 0; }
+#wb_element_instance10 p:last-child { margin-bottom: 0; }
+#wb_element_instance15 p:last-child { margin-bottom: 0; }
+#wb_element_instance16 p:last-child { margin-bottom: 0; }
+#wb_element_instance17 p:last-child { margin-bottom: 0; }
+#wb_element_instance18 p:last-child { margin-bottom: 0; }
+
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
+
+@media (max-width: 767px) {
+}
